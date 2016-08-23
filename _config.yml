@@ -1,19 +1,4 @@
-name: Dijital Media
-favicon: null
-layout_spectrum: 0.5931109609082341
 typography_spectrum: 0.8217509491369128
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,27 @@ color:
   lightness: 0.865217064274475
   saturation: 0.6966503008734435
   rhythmicContrast: 0.6575005818158388
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5931109609082341
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: David J Tyler
+  email: david@dijitalmedia.co.uk
+  url: www.dijitalmedia.co.uk
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/252df6e2-1244-41b7-9053-eca8cce4758f.png
+name: Dijital Media Limited
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cbbee39-0327-4a13-a3e5-30f535931517.png
+title: Measured Marketing (plus a bit of know how..)
 purpose: []
