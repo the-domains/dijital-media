@@ -2,19 +2,18 @@
 description: >-
   Located in Croydon London, DML use digital analytics, marketing tools and know
   how to improve online conversion volume for businesses.
-dateModified: '2016-08-24T15:01:17.623Z'
-datePublished: '2016-08-24T15:01:48.922Z'
+dateModified: '2016-08-24T15:26:55.877Z'
+datePublished: '2016-08-24T15:26:56.556Z'
 title: Doubling visitor traffic will not double conversions.
 author: []
 publisher:
   name: Jagger
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-doubling-visitor-traffic-will-not-double-conversions.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: doubling-visitor-traffic-will-not-double-conversions/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83395f65-95f2-4c5a-a207-f463252ec733.png)
