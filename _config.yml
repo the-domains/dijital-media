@@ -1,4 +1,3 @@
-layout_spectrum: 0.46766141639091074
 typography_spectrum: 0.9058618769049644
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.46766141639091074
 analytics:
   google: null
   facebook: null
@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Doubling visitor traffic will not double conversions.
+    id: 9224ba59-3fc0-4298-87c0-e44fc10bc7be
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cbbee39-0327-4a13-a3e5-30f535931517.png
 title: Measured Marketing
