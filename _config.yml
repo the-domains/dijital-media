@@ -31,10 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Guide
-    url: >-
-      http://www.kaushik.net/avinash/real-world-smart-beginners-advanced-google-analytics-guide/
-    type: external
   - name: Doubling visitor traffic will not double conversions.
     id: 9224ba59-3fc0-4298-87c0-e44fc10bc7be
     type: content
